@@ -1,6 +1,6 @@
 # Multiplexer4to1
 # Aim:
-To simulate and synthesis half adder using Xilinx ISE.
+To simulate and synthesis multiplexer4to1 using Xilinx ISE.
 
 # Apparatus Required:
 Xilinx 14.7 Spartan6 FPGA
